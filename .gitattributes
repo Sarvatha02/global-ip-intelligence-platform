@@ -1,2 +1,3 @@
-*.jsx linguist-detectable=true
+*.java linguist-detectable=true
+*.sql linguist-detectable=true
 *.js linguist-detectable=true
